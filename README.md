@@ -1,2 +1,3 @@
-# springboot-lab
-This repository is a laboratory for springboot
+# springboot-lab💻
+스프링부트르 활용하여 여러가지 공부 및 시도 후 업로드하는 저장소
+
